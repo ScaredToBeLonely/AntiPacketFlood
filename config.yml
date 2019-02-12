@@ -1,0 +1,4 @@
+#Enter command below when player send too many packets. (Ex: ban %player%, kick and more...)
+Command: ~
+#This is a kick message.
+KickMessage: 'DETECTED YOU SENT MANY PACKETS.'
